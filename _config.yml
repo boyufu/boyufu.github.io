@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Boyu Fu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Computer Science Undergraduate"
+  location         : #
   employer         : "Sichuan University"
   uri              : # URL
   email            : "boyufu@stu.scu.edu.cn" 
@@ -34,11 +34,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : #
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0006-8976-9044"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
